@@ -1,1 +1,6 @@
 .DS_Store
+
+# dataspell python stuff
+.venv/*
+pyproject.toml
+uv.lock
